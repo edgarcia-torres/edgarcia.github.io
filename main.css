@@ -1,0 +1,156 @@
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #d8e9f0;
+    width: auto;
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90vw; 
+    min-width: 600px;
+    max-width: 1100px;
+    display: block;
+}
+h1{
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 10px;;
+}
+.name{
+    font-size: 50px;
+    font-family: 'Teko', sans-serif;
+    color: #f70776 ;
+}
+h2{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    text-align:left;
+}
+h3{
+    margin-left: 10px;
+    text-align:left;   
+}
+h4{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align:left;   
+}
+strong{
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+.mainsquare{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    border: 3px solid #c3195d;
+    border-radius: 10px;
+}
+
+hr{
+    border: 1px solid #252a34;
+}
+
+img{
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div1{
+    background-color:#0e2431;
+    display:block;
+    justify-content:space-around;
+    padding: 10px;
+    margin-block: 10px;
+}
+.div2{
+
+    background-color:#0e2431;
+    display:flex;
+    color :whitesmoke;
+
+    width: 100%;
+    margin-block: 10px;
+}
+.div3{
+    padding-block: 10px;
+    background-color:#0e2431;
+    display:block;
+    color :whitesmoke;
+
+    width: 100%;
+    margin-block: 10px;
+}
+.div4{
+    padding-block: 10px;
+    background-color:#0e2431;
+    display:block;
+    color :whitesmoke;
+    width: 100%;
+    margin-block: 10px;
+}
+
+.buttonDiv{
+    width:380px;
+    display:flex;
+    justify-content:space-evenly;
+    font-family: 'Titillium Web', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    margin: 10px;
+    text-align: justify;
+}
+b{
+    font-weight:900;
+}
+
+button{
+    
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Titillium Web';
+    border-color:silver;
+    border-radius: 30px;
+    font-size: 20px;
+
+}
+.education{
+    width:100%;
+display:inline-flex;
+}
+.program{
+    width:20%;
+    border: 3px solid #c3195d;
+    border-radius: 10px;
+    margin:5px
+}
+.specification{
+    width:80%;
+    border: 3px solid #c3195d;
+    border-radius: 10px;
+    margin:5px 
+}
+
+.formdiv{
+    display:flex;
+    margin-right: auto;
+    justify-content: space-evenly;
+    margin-block: 15px;
+}
+
+
+
